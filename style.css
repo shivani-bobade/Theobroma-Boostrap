@@ -1,0 +1,133 @@
+.carousel-control-prev,
+.carousel-control-next {
+  display: none;
+}
+
+.custom-btn {
+  color: #a37a2d;
+  border: 2px solid #a37a2d;
+  background-color: skyblue;
+  transition: all 0.3s ease;
+}
+
+.custom-btn:hover {
+  color: #fff;
+  border-color: #a37a2d;
+  background-color: #a37a2d;
+}
+
+.testimonial-section {
+  background: url("images/theo-bg-1.webp") center/cover no-repeat;
+  position: relative;
+  min-height: 50vh;         
+  display: flex;
+  align-items: center; 
+}
+
+.quote-icon {
+  font-size: 70px;
+  color: #b08a2e;
+  margin-bottom: 20px;
+}
+
+.testimonial-text {
+  max-width: 700px;
+  margin: auto;
+  font-size: 18px;
+  line-height: 1.8;
+  color: #222;
+}
+
+.author {
+  margin-top: 15px;
+  font-size: 22px;
+  color: #A9802A;
+  font-weight: 500;
+}
+
+.decor-left {
+  position: absolute;
+  left: -30px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 120px;
+}
+
+.decor-right {
+  position: absolute;
+  right: -30px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 120px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  color: #A9802A;
+  font-size: 32px;
+  width: auto;
+  background: none;
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+  color: #000;
+}
+
+.dots {
+  color: #9dd7de;
+  letter-spacing: 4px;
+  font-size: 18px;
+}
+
+.theobroma-products {
+  background: url("images/Collection-desktop.webp") center/cover no-repeat;
+  min-height: 60vh;      
+}
+
+.product-text {
+  max-width: 850px;
+  font-size: 18px;
+  line-height: 1.8;
+  color: #222;
+}
+
+.text-warning {
+  color: #b88a2b;
+}
+
+.about-intro-section {
+  min-height: 40vh;
+  background: url("images/about-intro-bg.jpg") center / cover no-repeat;
+}
+
+.about-intro-section p {
+  max-width: 900px;
+  margin: 0 auto;
+  line-height: 1.8;
+  color: #222;
+}
+
+.speciality-cakes-section {
+  width: 100%;
+}
+
+.cakes-top {
+  min-height: 50vh;
+  background: url("images/specialty-cakes-banner.jpg") center / cover no-repeat;
+}
+.description {
+  max-width: 750px;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #000;
+}
+
+.dots {
+  color: #9dd7de;
+  letter-spacing: 4px;
+}
+
+
+
+
